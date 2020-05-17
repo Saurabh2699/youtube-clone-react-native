@@ -22,7 +22,14 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
-    }
+      "bundleIdentifier": "com.SaurabhCo.YouTubeClone",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.SaurabhCo.YouTubeClone",
+      "versionCode": 1
+    },
+    "description": "Simple youtube clone using react native",
+    "githubUrl": "https://github.com/Saurabh2699"
   }
 }
